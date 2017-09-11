@@ -1,0 +1,32 @@
+@charset "utf-8";
+#all{
+	height: 765px;
+	background-color: red;
+	padding-top: 15px;
+}
+#header{
+	height: 135px;
+	background-color: blue;
+	margin-bottom: 15px;
+}
+#main{
+	height: 435px;
+	background-color: red;
+	margin-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+#mainR{
+    height: 435px;
+    background-color: black;
+    margin-right: 15px;
+}
+#mainL{
+	height: 435px;
+	background-color:gray; 
+}
+#footer{
+	height: 135px;
+	background-color: yellow;
+	margin-bottom: 15px;
+}

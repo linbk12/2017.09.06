@@ -1,0 +1,75 @@
+@charset "utf-8";
+#all{
+	height: 765px;
+	background-color: red;
+	padding-top: 15px;
+}
+#header{
+	height: 135px;
+	background-color: blue;
+	margin-bottom: 15px;
+}
+#main{
+	height: 435px;
+	background-color: red;
+	margin-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+#mainR{
+    height: 435px;
+    background-color: black;
+    margin-right: 15px;
+}
+#mainL{
+	height: 435px;
+	background-color:red; 
+}
+#one{
+	height: 135px;
+	background-color: red;
+	margin-bottom: 15px;
+}
+#Sone{
+	height: 135px;
+	background-color: black;
+	margin-right: 15px;
+}
+#Mone{
+	height: 135px;
+	background-color: yellow;
+}
+
+#two{
+	height: 135px;
+	background-color:red;
+    margin-bottom: 15px;
+}
+#Stwo{
+	height: 135px;
+	background-color: black;
+	margin-right: 15px;
+
+}
+#Mtwo{
+	height: 135px;
+	background-color: yellow;
+}
+#three{
+	height: 135px;
+	background-color: red;
+}
+#Sthree{
+	height: 135px;
+	background-color: black;
+	margin-right: 15px;
+}
+#Mthree{
+	height: 135px;
+	background-color: yellow;
+}
+#footer{
+	height: 135px;
+	background-color: yellow;
+	margin-bottom: 15px;
+}
